@@ -55,6 +55,7 @@ body {
   overflow: hidden;
   display: flex;
   flex-direction: column;
+  box-shadow: 0 10px 40px -10px #333;
 }
 
 .card .header {
